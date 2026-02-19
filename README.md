@@ -92,7 +92,7 @@ Version control is a great tool but it can't do everything! You need to have a c
 
 ### Further resources
 
-For more information check out the resources at [skills.github.com](skills.github.com) and [git-scm.com/doc](https://git-scm.com/doc).
+For more information check out the resources at [skills.github.com](https://skills.github.com) and [git-scm.com/doc](https://git-scm.com/doc).
 
 If you're planning to run a locally hosted git demo check out this repo's doc on configuring a gogs server [here](https://github.com/gleeblezoid/gitception/blob/main/docs/setting_up_a_gogs_demo_server.md).
 
