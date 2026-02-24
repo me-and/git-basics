@@ -2,7 +2,7 @@
 
 Fundamentals of using git, in an hour or less.
 
-##  What's this repo for?
+## What's this repo for?
 
 This repo was set up to provide additional resources for folks planning to learn the basics of using version control or run a session for students wishing to do so. It was originally created by [@gleeblezoid](https://github.com/gleeblezoid) for a seminar held at Oxford University intended for second year students embarking on a group project.
 
